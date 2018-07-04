@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/json-20170516-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/httpclient-4.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/json-20170516.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/json-20170516-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/httpclient-4.2.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/httpclient-4.2.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/httpclient-4.2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/httpcore-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/commons-logging-1.1.1-bin/commons-logging-1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/commons-logging-1.1.1-bin/commons-logging-1.1.1/commons-logging-1.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/commons-logging-1.1.1-bin/commons-logging-1.1.1/commons-logging-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/commons-logging-1.1.1-bin/commons-logging-1.1.1/commons-logging-adapters-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/commons-logging-1.1.1-bin/commons-logging-1.1.1/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Downloads/commons-logging-1.1.1-bin/commons-logging-1.1.1/commons-logging-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tolbe/Desktop/jar/RCaller-2.0.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
